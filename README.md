@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Efe Akaröz</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on [Path Engine](https://github.com/efeakaroz13/path-engine)
+- 🔭 I’m currently working on [K7](https://github.com/efeakaroz13/K7)
 
 - 🌱 I’m currently learning **Go**
 
