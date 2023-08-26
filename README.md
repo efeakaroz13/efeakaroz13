@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [toucantalk.live](https://www.toucantalk.live)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **iOS Development**
 
 - 📫 How to reach me **efeakaroz13@gmail.com**
 
