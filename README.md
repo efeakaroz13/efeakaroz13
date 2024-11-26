@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Efe Akaröz</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on [kentel.dev](https://kentel.dev)
+- 🔭 I’m currently working on [kentelsoftware.com](https://kentelsoftware.com)
 
 - 🌱 I’m currently learning **iOS Development**
 
-- 📫 How to reach me **efeakaroz13@gmail.com**
+- 📫 How to reach me **efeakaroz@kentelsoftware.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
